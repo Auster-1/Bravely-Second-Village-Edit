@@ -37,10 +37,15 @@ Some useful information to bear in mind regarding Village save data editing:
 ***Warning!:*** *The effects of decreasing an existing population count while you have residents assigned to jobs is currently UNTESTED.*
 
 ## Saves location
-You may already know that the developers of Citra discontinued the project after legal action from Nintendo.  Consequently, the `flatpak` version, which this script presumed your use of, no longer launches.  As of 1.0.1, this script presumes you're using the `appimage` version of Citra and locates your saves accordingly.  If you had saves for another version of Citra that you'd like to copy over, saves for all 3 Linux releases can be found in these folders:
+You may already know that the developers of Citra discontinued the project after legal action from Nintendo.  Consequently, the `flatpak` version, which the original script presumed your use of, no longer launches.  For this fork, you need to have both the script and the save in the same folder, and then run the script. Some of the locations where you may find the saves:
 
 **Appimage:** `/.local/share/citra-emu/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000/000fc500/data/00000001`\
+\
 **Flatpak:** `/.var/app/org.citra_emu.citra/data/citra-emu/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000/000fc500/data/00000001`\
-**Snap:** `/snap/citra-emu/common/.local/share/citra-emu/sdmc/Nintendo 3DS/000000000000000000000000000000000/000000000000000000000000000000000/title/00040000/000fc500/data/00000001`
-**Retroarch:** `.config/retroarch/saves/Citra/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000/0017ba00/data/00000001/`
-**JKSV save dump:** `/JKSV/Saves/BRAVELY SECOND/[user-named folder]`
+\
+**Snap:** `/snap/citra-emu/common/.local/share/citra-emu/sdmc/Nintendo 3DS/000000000000000000000000000000000/000000000000000000000000000000000/title/00040000/000fc500/data/00000001`\
+\
+**Retroarch:** `.config/retroarch/saves/Citra/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000/0017ba00/data/00000001/`\
+\
+**JKSV save dump:** `/JKSV/Saves/BRAVELY SECOND/[user-named folder]`\
+\
