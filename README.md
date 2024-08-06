@@ -47,4 +47,4 @@ You may already know that the developers of Citra discontinued the project after
 \
 **Retroarch:** `.config/retroarch/saves/Citra/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000/0017ba00/data/00000001/`\
 \
-**JKSV save dump:** `/JKSV/Saves/BRAVELY SECOND/[user-named folder]`\
+**JKSV save dump:** `/JKSV/Saves/BRAVELY SECOND/[user-named folder]`
