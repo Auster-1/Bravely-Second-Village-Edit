@@ -9,7 +9,7 @@ The majority of building repairs take a prohibitively long time to complete with
 
 ***Warning!:*** *Editing saves always carry a risk.  BACKUP YOUR SAVE FILES before making any edits.*
 
-Tested on both an emulator save, and on the save from a physical copy of which I can confirm that has never been tempered before as I had bought the physical copy sealed.
+Tested on both an emulator save, and on the save from a physical US release (`CTR P BSEE USA` according to the back cover) of which I can confirm that has never been tempered before as I had bought the physical copy sealed.
 
 ## Save Editing
 Download the script, put it in the same folder as the `BD2COLONY#.sav` file to be edited (`#` being the number of the file) and run the following Terminal command from the same directory:
