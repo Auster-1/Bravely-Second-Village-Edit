@@ -1,5 +1,5 @@
 # Bravely Second Village Edit
-A simple bash script for editing your Moon Village population count in Bravely Second: End Layer.
+A simple bash script for editing your Village population count in Bravely Second: End Layer.
 
 This script recreates the function of ukee's fork from GBA Temp, which is no longer available.
 
